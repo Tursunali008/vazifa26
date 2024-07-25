@@ -91,7 +91,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
               Positioned(
-                top: 60,
+                top: 30,
                 right: 140,
                 child: Container(
                   width: 80,
@@ -113,7 +113,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
               Positioned(
-                top: 70,
+                top: 48,
                 left: 15,
                 child: Container(
                   width: 80,
@@ -146,7 +146,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
               Positioned(
-                top: 70,
+                top: 45,
                 right: 15,
                 child: Container(
                   width: 80,
